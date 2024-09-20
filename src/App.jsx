@@ -9,7 +9,7 @@ import Shop from "./views/Shop";
 const Home = lazy(() => import("./views/Home/Home"));
 const About = lazy(() => import("./views/About/About"));
 const Contact = lazy(() => import("./views/Contact/Contact"));
-const Career = lazy(() => import("./views/career/career"));
+const Career = lazy(() => import("./views/Career/Career"));
 const Community = lazy(() => import("./views/Community/Community"));
 const Project = lazy(() => import("./views/Project/Project"));
 

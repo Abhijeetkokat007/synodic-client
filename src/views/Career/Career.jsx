@@ -1,6 +1,6 @@
 import React from "react";
-import { motion } from "framer-motion"; // Import Framer Motion
-import bgimage from "../../components/Navbar/images/background1.jpg"; // Adjust the path to your background image
+import { motion } from "framer-motion"; 
+import bgimage from "../../components/Navbar/images/background1.jpg"; 
 import TeamCard from "../../components/TeamCard/TeamCard";
 
 function Career() {
